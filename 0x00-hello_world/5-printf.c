@@ -3,7 +3,7 @@
 /**
 * main - to be called
 *
-* Return:0 for the int
+* Return: 0 for the int
 */
 int main(void)
 {

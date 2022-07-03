@@ -16,4 +16,3 @@ continue;
 putchar(letter);
 return (0);
 }
-}

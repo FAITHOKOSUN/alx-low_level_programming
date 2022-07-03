@@ -1,1 +1,1 @@
- prints all single digit numbers of base 10
+s all single digit numbers of base 10

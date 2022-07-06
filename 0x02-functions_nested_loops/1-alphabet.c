@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* main - check the code
+* print_alphabet -function to print abc
 *
 * Description: use this prototype  function print_alphabet
 *

@@ -1,7 +1,7 @@
-nclude <stdio.h>
+#include <stdio.h>
 
 /**
- * main - block to execute
+ * main - entry point
  * Desciption: computes and prints
  * Return: 0
  */
